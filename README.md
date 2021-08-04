@@ -1,4 +1,4 @@
-# Olá eu sou Lucas Ferreira
+# Olá! eu sou Lucas Ferreira
 - 👨‍💻 Hoje trabalho com back-end e front-end
 - 🌱 Arquitetura e padrões de projetos
 - 😎 Pronouns: ele/dele
